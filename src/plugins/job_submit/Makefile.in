@@ -475,6 +475,7 @@ SUBDIRS = \
 	partition \
 	pbs \
 	require_timelimit \
+	sflex \
 	throttle
 
 all: all-recursive
